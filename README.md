@@ -15,6 +15,9 @@ Pi Network派型网络：一个新出的手机移动式挖矿社交网络，国�
 然后直接到谷歌商店搜pi network即可直接下载安装
 安卓手机：（复制到浏览器打开）
 下载链接https://minepi.com/download
+Android版本下载
+https://qdh.lanzouy.com/i1YLRxxtapa   minepi-pinetwork-1.30.4.apk
+https://qdh.lanzouy.com/iOhFexxthkh  pi-browers 1.6.1.apk
 注册：
 1.安装APP之后需要选择手机号码注册，选择China（+86），然后输入手机号码，不用验证；
 2.输入密码（大小写字母+数字组合，至少8位）点submit提交
