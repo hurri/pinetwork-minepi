@@ -2,6 +2,13 @@
 pi network π派币 注册邀请码dajiafa minepi.com 最新官方APP下载
 
 
+最新版1.33.0 下载地址
+ 
+https://share.weiyun.com/p2AZltTG
+
+https://qdh.lanzouy.com/iuIrV0b9oruh
+
+
 （不想投资又想坐享其成，机遇来啦看你是否还可以再把握一次，可能会暴富 也可能白忙活一场！挖矿免费免费免费）
 错过09年比特币挖矿，别错过19年Pi挖矿
 对标脸书Libra天秤座️计划项目
